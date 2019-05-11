@@ -47,6 +47,7 @@ export const APPID = APP_ID;
 1. [moment](https://www.npmjs.com/package/moment): library for parsing, validating, manipulating, and formatting dates.
 
 ## Resources
+1. [country-list](https://datahub.io/core/country-list).
 1. [Weather Color](https://www.iconfinder.com/iconsets/weather-color-2): elegant colored weather icons.
 1. [The Weather is Nice Today](https://www.iconfinder.com/iconsets/the-weather-is-nice-today).
 
